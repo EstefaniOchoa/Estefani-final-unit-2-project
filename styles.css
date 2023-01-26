@@ -1,0 +1,59 @@
+/* CSS styling  */
+
+/* 2 CSS Rules to style the color of the webpage {done} */
+
+
+body {
+    background-color: lightgreen;
+}
+
+/*  Use boarder, padding, and  margin {done}   */
+
+div {
+    border: blue solid 5px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+
+}
+
+/* Use flexbox to align something horizontally {done} */
+.title {
+    text-align: center;
+}
+
+
+/* Style html elements differently using class atrributes {done} */
+
+.section1 {
+    color: white;
+    background-color: purple;
+}
+
+.section2 {
+    background-color: pink;
+}
+
+
+.section3 {
+    background-color: lightblue;
+}
+
+
+/*<!--Next Level Feature {done} */
+
+h1,
+h2 {
+    text-shadow: 2px 2px #ff0000;
+}
+
+img {
+
+    border-radius: 5%;
+    width: 420px;
+    justify-content: center;
+}
+
+
+/* Check that colors meet the 4:1 test - use the color contrast website from lesson 2.12 {done} */
